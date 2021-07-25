@@ -414,18 +414,18 @@ body {
 }
 
 .card__img--1 {
-  background-image: -webkit-gradient(linear, left top, right bottom, from(#ffb900), to(#ff7730)), url(../../images/nat-5.jpg);
-  background-image: linear-gradient(to right bottom, #ffb900, #ff7730), url(../../images/nat-5.jpg);
+  background-image: -webkit-gradient(linear, left top, right bottom, from(#ffb900), to(#ff7730)), url(images/nat-5.jpg);
+  background-image: linear-gradient(to right bottom, #ffb900, #ff7730), url(images/nat-5.jpg);
 }
 
 .card__img--2 {
-  background-image: -webkit-gradient(linear, left top, right bottom, from(#28c94b), to(#116811)), url(../../images/nat-6.jpg);
-  background-image: linear-gradient(to right bottom, #28c94b, #116811), url(../../images/nat-6.jpg);
+  background-image: -webkit-gradient(linear, left top, right bottom, from(#28c94b), to(#116811)), url(images/nat-6.jpg);
+  background-image: linear-gradient(to right bottom, #28c94b, #116811), url(images/nat-6.jpg);
 }
 
 .card__img--3 {
-  background-image: -webkit-gradient(linear, left top, right bottom, from(#2998ff), to(#5643fa)), url(../../images/nat-7.jpg);
-  background-image: linear-gradient(to right bottom, #2998ff, #5643fa), url(../../images/nat-7.jpg);
+  background-image: -webkit-gradient(linear, left top, right bottom, from(#2998ff), to(#5643fa)), url(images/nat-7.jpg);
+  background-image: linear-gradient(to right bottom, #2998ff, #5643fa), url(images/nat-7.jpg);
 }
 
 .card__heading {
@@ -708,8 +708,8 @@ body {
 
 .section-features {
   padding: 20rem 0;
-  background-image: -webkit-gradient(linear, left top, right bottom, from(rgba(73, 127, 243, 0.8)), to(rgba(38, 38, 151, 0.8))), url(../images/nat-4.jpg);
-  background-image: linear-gradient(to right bottom, rgba(73, 127, 243, 0.8), rgba(38, 38, 151, 0.8)), url(../images/nat-4.jpg);
+  background-image: -webkit-gradient(linear, left top, right bottom, from(rgba(73, 127, 243, 0.8)), to(rgba(38, 38, 151, 0.8))), url(images/nat-4.jpg);
+  background-image: linear-gradient(to right bottom, rgba(73, 127, 243, 0.8), rgba(38, 38, 151, 0.8)), url(images/nat-4.jpg);
   -webkit-backface-visibility: hidden;
           backface-visibility: hidden;
   background-size: cover;
@@ -742,7 +742,7 @@ body {
 }
 
 .book {
-  background-image: linear-gradient(105deg, rgba(255, 255, 255, 0.9) 0%, rgba(255, 255, 255, 0.9) 50%, transparent 50%), url(../../images/nat-10.jpg);
+  background-image: linear-gradient(105deg, rgba(255, 255, 255, 0.9) 0%, rgba(255, 255, 255, 0.9) 50%, transparent 50%), url(images/nat-10.jpg);
   background-size: cover;
   height: 50rem;
   border-radius: 3px;
